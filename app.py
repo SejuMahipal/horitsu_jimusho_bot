@@ -23,8 +23,8 @@ senjitu_changer = ["2022年10月","2022年9月"]
 
 
 #Setting Page title and header
-st.set_page_config(page_title="Phase_3 Debt Collection project")
-st.header("債権回収自動コールシステム_PHASE-3")
+st.set_page_config(page_title="法律事務所自動音声ボット")
+st.header("法律事務所債権回収自動コールシステム")
 st.subheader("下記のところにエクセルのファイルアップしてください")
 
 
